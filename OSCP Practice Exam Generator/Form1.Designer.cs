@@ -141,7 +141,7 @@ namespace OSCP_Practice_Exam_Generator
             this.groupBox1.Controls.Add(this.btnStop);
             this.groupBox1.Location = new System.Drawing.Point(313, 39);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(281, 128);
+            this.groupBox1.Size = new System.Drawing.Size(293, 128);
             this.groupBox1.TabIndex = 8;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Timer";
@@ -179,15 +179,15 @@ namespace OSCP_Practice_Exam_Generator
             this.richTextBox1.Location = new System.Drawing.Point(313, 173);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.Size = new System.Drawing.Size(280, 124);
+            this.richTextBox1.Size = new System.Drawing.Size(292, 110);
             this.richTextBox1.TabIndex = 9;
             this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
             // 
             // statusStrip1
             // 
-            this.statusStrip1.Location = new System.Drawing.Point(0, 316);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 302);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(606, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(618, 22);
             this.statusStrip1.TabIndex = 10;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -195,7 +195,7 @@ namespace OSCP_Practice_Exam_Generator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(606, 338);
+            this.ClientSize = new System.Drawing.Size(618, 324);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.groupBox1);
