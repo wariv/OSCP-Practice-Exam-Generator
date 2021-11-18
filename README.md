@@ -1,6 +1,8 @@
 # OSCP-Practice-Exam-Generator
 
-Just a little app I wrote to streamline picking and practicing machines for the OSCP. Nothing fancy, nothing elegant. Thanks to TJ Null and his OSCP like list.
+Just a little app I wrote to streamline picking and practicing machines for the OSCP. Nothing fancy, nothing elegant. I don't program for a living, sorry.
+
+Big thanks Thanks to TJ Null and his OSCP like list.
 
 It doesn't do points or anything. But if you can reliably knock out 4 machines in a decent time. You should be in a good spot.
 
