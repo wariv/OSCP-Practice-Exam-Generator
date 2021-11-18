@@ -2,7 +2,7 @@
 
 Just a little app I wrote to streamline picking and practicing machines for the OSCP. Nothing fancy, nothing elegant. I don't program for a living, sorry.
 
-THIS DOES NOT GUARENTEE YOU WILL PASS THE OSCP!!!!
+THIS DOES NOT GUARANTEE YOU WILL PASS THE OSCP!!!!
 
 Big thanks Thanks to TJ Null and his OSCP like list.
 
